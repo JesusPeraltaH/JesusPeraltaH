@@ -6,6 +6,9 @@
 
 - 📫 How to reach me **jesusperaltha@gmail.com**
 
+- 👋 Native Spanish Speaker**
+- 👋 B2 Upper Intermediate English Certificate **
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/jesus-peralta-hoyos-b13b64293/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jesus (yessusph) peralta hoyos" height="30" width="40" /></a>
