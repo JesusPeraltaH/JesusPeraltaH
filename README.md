@@ -1,6 +1,6 @@
 ### Hi there 👋
 <h1 align="center">Hi 👋, I'm Jesus Peralta Hoyos</h1>
-<h3 align="center">A passionate frontend, Problem solver, Data Analisis, CiberSecurity Programer/Designer</h3>
+<h3 align="center">A passionate Mobile App/Web (front/Back)end , Problem solver, Data Analisis, Programer/Designer</h3>
 
 - 🔭 I’m currently working on **FixxPress**
 
